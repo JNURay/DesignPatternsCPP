@@ -4,4 +4,5 @@
 # See <https://www.gnu.org/licenses/>.
 
 add_subdirectory(abstract_factory_pattern)
+add_subdirectory(builder_pattern)
 # add_subdirectory(factory_pattern)
