@@ -3,10 +3,10 @@
 # Licensed under the GNU General Public License v3.0 or later.
 # See <https://www.gnu.org/licenses/>.
 
-set(TARGET builder-pattern)
+set(TARGET abstract-factory)
 
 add_executable(${TARGET} main.cpp)
 
 add_executable(${PROJECT_NAME}::${TARGET} ALIAS ${TARGET})
 
-target_include_directories(${TARGET} PRIVATE "coach" "manufacturer" "product")
+target_include_directories(${TARGET} PRIVATE "factories" "products")
