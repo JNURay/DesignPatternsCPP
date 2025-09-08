@@ -1,11 +1,7 @@
-/*
- * Copyright (C) 2025 YANG Rui <yangrui1028@gmail.com>
- *
- * This file is part of DesignPatternsCPP.
- *
- * Licensed under the GNU General Public License v3.0 or later.
- * See <https://www.gnu.org/licenses/>.
- */
+// Copyright (c) 2025 YANG Rui <yangrui1028@gmail.com>
+// This file is part of DesignPatternsCPP.
+// Licensed under the MIT License.
+// See <https://opensource.org/licenses/MIT>.
 
 #ifndef TENNIS_BALL_CAN_HPP
 #define TENNIS_BALL_CAN_HPP
