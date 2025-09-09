@@ -3,8 +3,8 @@
 # Licensed under the MIT License.
 # See <https://opensource.org/licenses/MIT>.
 
-add_subdirectory(abstract_factory)
-add_subdirectory(builder)
-add_subdirectory(factory_method)
-add_subdirectory(prototype)
-add_subdirectory(singleton)
+set(TARGET singleton)
+
+add_executable(${TARGET} singleton.cpp)
+
+add_executable(${PROJECT_NAME}::${TARGET} ALIAS ${TARGET})

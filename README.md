@@ -26,7 +26,8 @@ creational_patterns
 ├── [abstract_factory](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/abstract_factory)  
 ├── [builder](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/builder)  
 ├── [factory_method](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/factory_method)  
-└── [prototype](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/prototype)
+├── [prototype](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/prototype)  
+└── [singleton](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/singleton)
 
 ## License
 [MIT License](LICENSE)
