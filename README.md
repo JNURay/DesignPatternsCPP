@@ -1,10 +1,19 @@
-# C++ 23 Design Patterns
-> C++ 23 Design Patterns examples 设计模式示例  
-> C++ 23 Design Patterns Descriptions 设计模式描述  
-> based on [Design Pattern by GoF] 基于[四人帮的《设计模式》]
+# C++ 23 Design Patterns <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+🚀 A modern C++ implementation of all 23 GoF design patterns with examples and explanations.  
+一个现代 C++ 实现的 23 种 GoF 设计模式示例与讲解。
 
+[![GitHub stars](https://img.shields.io/github/stars/JNURay/DesignPatternsCPP?style=social)](https://github.com/JNURay/DesignPatternsCPP/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/JNURay/DesignPatternsCPP?style=social)](https://github.com/JNURay/DesignPatternsCPP/network/members)
 ![](https://img.shields.io/badge/Language-C%2B%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-orange.svg)
+
+## Contents
+- [Quick Start](#quick-start)
+- [File Tree](#file-tree)
+  - [Creational Patterns](#creational-patterns)
+  - [Structural Patterns](#structural-patterns)
+  - [Behavioral Patterns](#behavioral-patterns)
+- [License](#license)
 
 ## Quick Start
 install cmake and then clone this repo  
@@ -16,24 +25,46 @@ cd DesignPatternsCPP
 mkdir build
 cd build
 cmake ..
-make
+cmake --build .
 ```  
 
 ## File Tree
-> to be finished
 
-creational_patterns  
-├── [abstract_factory](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/abstract_factory)  
-├── [builder](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/builder)  
-├── [factory_method](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/factory_method)  
-├── [prototype](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/prototype)  
-└── [singleton](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/singleton)
+### Creational Patterns
+- [Abstract Factory](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/abstract_factory)
+- [Builder](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/builder)
+- [Factory Method](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/factory_method)
+- [Prototype](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/prototype)
+- [Singleton](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/singleton)
 
-structural_patterns  
-└── [adapter](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/adapter)
+### Structural Patterns
+- [Adapter](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/adapter)
+- Bridge 🚧 TODO
+- Composite 🚧 TODO
+- Decorator 🚧 TODO
+- Facade 🚧 TODO
+- Flyweight 🚧 TODO
+- Proxy 🚧 TODO
+
+### Behavioral Patterns
+- Chain of Responsibility 🚧 TODO
+- Command 🚧 TODO
+- Interpreter 🚧 TODO
+- Iterator 🚧 TODO
+- Mediator 🚧 TODO
+- Memento 🚧 TODO
+- Observer 🚧 TODO
+- State 🚧 TODO
+- Strategy 🚧 TODO
+- Template Method 🚧 TODO
+- Visitor 🚧 TODO
 
 ## License
 [MIT License](LICENSE)
 
 [Design Pattern by GoF]: https://en.wikipedia.org/wiki/Design_Patterns
 [四人帮的《设计模式》]: https://book.douban.com/subject/34262305/
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks For Visiting
+
+### Please ⭐ this repository! It really helps others to find it~ <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" /> [🔝](#c-23-design-patterns-)<br>请⭐这个仓库！以便更多的人看到它~<img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" /> [🔝](#c-23-design-patterns-)
