@@ -29,6 +29,9 @@ creational_patterns
 ├── [prototype](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/prototype)  
 └── [singleton](https://github.com/JNURay/DesignPatternsCPP/tree/main/creational_patterns/singleton)
 
+structural_patterns  
+└── [adapter](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/adapter)
+
 ## License
 [MIT License](LICENSE)
 
