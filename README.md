@@ -39,7 +39,7 @@ cmake --build .
 
 ### Structural Patterns
 - [Adapter](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/adapter)
-- Bridge 🚧 TODO
+- [Bridge](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/bridge)
 - Composite 🚧 TODO
 - Decorator 🚧 TODO
 - Facade 🚧 TODO
