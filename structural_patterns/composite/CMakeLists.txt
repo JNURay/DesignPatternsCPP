@@ -3,6 +3,10 @@
 # Licensed under the MIT License.
 # See <https://opensource.org/licenses/MIT>.
 
-add_subdirectory(adapter)
-add_subdirectory(bridge)
-add_subdirectory(composite)
+set(TARGET composite)
+
+add_executable(${TARGET} composite.cpp)
+
+add_executable(${PROJECT_NAME}::${TARGET} ALIAS ${TARGET})
+
+target_include_directories(${TARGET} PRIVATE "inc")
