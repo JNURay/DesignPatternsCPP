@@ -41,7 +41,7 @@ cmake --build .
 - [Adapter](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/adapter)
 - [Bridge](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/bridge)
 - [Composite](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/composite)
-- Decorator 🚧 TODO
+- [Decorator](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/decorator)
 - Facade 🚧 TODO
 - Flyweight 🚧 TODO
 - Proxy 🚧 TODO
