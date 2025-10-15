@@ -43,7 +43,7 @@ cmake --build .
 - [Composite](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/composite)
 - [Decorator](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/decorator)
 - [Facade](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/facade)
-- Flyweight 🚧 TODO
+- [Flyweight](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/flyweight)
 - Proxy 🚧 TODO
 
 ### Behavioral Patterns
