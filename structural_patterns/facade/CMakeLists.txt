@@ -3,8 +3,8 @@
 # Licensed under the MIT License.
 # See <https://opensource.org/licenses/MIT>.
 
-add_subdirectory(adapter)
-add_subdirectory(bridge)
-add_subdirectory(composite)
-add_subdirectory(decorator)
-add_subdirectory(facade)
+set(TARGET facade)
+
+add_executable(${TARGET} facade.cpp)
+
+add_executable(${PROJECT_NAME}::${TARGET} ALIAS ${TARGET})

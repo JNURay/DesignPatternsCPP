@@ -42,7 +42,7 @@ cmake --build .
 - [Bridge](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/bridge)
 - [Composite](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/composite)
 - [Decorator](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/decorator)
-- Facade 🚧 TODO
+- [Facade](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/facade)
 - Flyweight 🚧 TODO
 - Proxy 🚧 TODO
 
