@@ -44,7 +44,7 @@ cmake --build .
 - [Decorator](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/decorator)
 - [Facade](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/facade)
 - [Flyweight](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/flyweight)
-- Proxy 🚧 TODO
+- [Proxy](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/proxy)
 
 ### Behavioral Patterns
 - Chain of Responsibility 🚧 TODO
