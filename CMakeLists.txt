@@ -11,5 +11,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 include(${CMAKE_SOURCE_DIR}/config.cmake)
 
+add_subdirectory(behavioral_patterns)
 add_subdirectory(creational_patterns)
 add_subdirectory(structural_patterns)

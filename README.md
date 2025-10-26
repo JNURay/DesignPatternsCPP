@@ -47,7 +47,7 @@ cmake --build .
 - [Proxy](https://github.com/JNURay/DesignPatternsCPP/tree/main/structural_patterns/proxy)
 
 ### Behavioral Patterns
-- Chain of Responsibility 🚧 TODO
+- [Chain of Responsibility](https://github.com/JNURay/DesignPatternsCPP/tree/main/behavioral_patterns/chain-of-responsibility)
 - Command 🚧 TODO
 - Interpreter 🚧 TODO
 - Iterator 🚧 TODO
