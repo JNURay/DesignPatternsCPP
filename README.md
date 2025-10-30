@@ -14,6 +14,7 @@
   - [Structural Patterns](#structural-patterns)
   - [Behavioral Patterns](#behavioral-patterns)
 - [License](#license)
+- [Reference](#reference)
 
 ## Quick Start
 install cmake and then clone this repo  
@@ -62,8 +63,10 @@ cmake --build .
 ## License
 [MIT License](LICENSE)
 
-[Design Pattern by GoF]: https://en.wikipedia.org/wiki/Design_Patterns
-[四人帮的《设计模式》]: https://book.douban.com/subject/34262305/
+## Reference
+- [Design Pattern by GoF](https://en.wikipedia.org/wiki/Design_Patterns)
+- [四人帮的《设计模式》](https://book.douban.com/subject/34262305/)
+- [Detailed GoF Design Patterns from UNC](https://www.cs.unc.edu/~stotts/GOF/hires/patcafso.htm)
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks For Visiting
 
