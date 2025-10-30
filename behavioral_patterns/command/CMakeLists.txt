@@ -3,5 +3,8 @@
 # Licensed under the MIT License.
 # See <https://opensource.org/licenses/MIT>.
 
-add_subdirectory(chain-of-responsibility)
-add_subdirectory(command)
+set(TARGET command)
+
+add_executable(${TARGET} command.cpp)
+
+add_executable(${PROJECT_NAME}::${TARGET} ALIAS ${TARGET})
