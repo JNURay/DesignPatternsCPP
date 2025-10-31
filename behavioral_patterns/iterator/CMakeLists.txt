@@ -3,7 +3,8 @@
 # Licensed under the MIT License.
 # See <https://opensource.org/licenses/MIT>.
 
-add_subdirectory(chain-of-responsibility)
-add_subdirectory(command)
-add_subdirectory(interpreter)
-add_subdirectory(iterator)
+set(TARGET iterator)
+
+add_executable(${TARGET} iterator.cpp)
+
+add_executable(${PROJECT_NAME}::${TARGET} ALIAS ${TARGET})

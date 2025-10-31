@@ -51,7 +51,7 @@ cmake --build .
 - [Chain of Responsibility](https://github.com/JNURay/DesignPatternsCPP/tree/main/behavioral_patterns/chain-of-responsibility)
 - [Command](https://github.com/JNURay/DesignPatternsCPP/tree/main/behavioral_patterns/command)
 - [Interpreter](https://github.com/JNURay/DesignPatternsCPP/tree/main/behavioral_patterns/interpreter)
-- Iterator 🚧 TODO
+- [Iterator](https://github.com/JNURay/DesignPatternsCPP/tree/main/behavioral_patterns/iterator)
 - Mediator 🚧 TODO
 - Memento 🚧 TODO
 - Observer 🚧 TODO
