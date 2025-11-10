@@ -3,8 +3,8 @@
 # Licensed under the MIT License.
 # See <https://opensource.org/licenses/MIT>.
 
-add_subdirectory(chain-of-responsibility)
-add_subdirectory(command)
-add_subdirectory(interpreter)
-add_subdirectory(iterator)
-add_subdirectory(mediator)
+set(TARGET mediator)
+
+add_executable(${TARGET} mediator.cpp)
+
+add_executable(${PROJECT_NAME}::${TARGET} ALIAS ${TARGET})
