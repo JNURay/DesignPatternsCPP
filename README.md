@@ -54,7 +54,7 @@ cmake --build .
 - [Iterator](https://github.com/JNURay/DesignPatternsCPP/tree/main/behavioral_patterns/iterator)
 - [Mediator](https://github.com/JNURay/DesignPatternsCPP/tree/main/behavioral_patterns/mediator)
 - [Memento](https://github.com/JNURay/DesignPatternsCPP/tree/main/behavioral_patterns/memento)
-- Observer 🚧 TODO
+- [Observer](https://github.com/JNURay/DesignPatternsCPP/tree/main/behavioral_patterns/observer)
 - State 🚧 TODO
 - Strategy 🚧 TODO
 - Template Method 🚧 TODO
